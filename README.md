@@ -1,3 +1,15 @@
+1. Instal drupal menggunakan composer composer create-project drupal-composer/drupal-project:8.x-dev drupalsalt --stability dev --no-interaction
+(nama folder drupalsalt)
+2. buat database pada mysql dengan nama drupaltst
+3. Kemudian panggil drupal yang sudah di instal di localhost (localhost/drupal) pada browser, buat projek dengan database yang sebelumnya sudah dibuat
+4. Username defkarisia
+   Password Gloryatestdrupal24
+5. localhost/drupalsalt/web
+
+
+
+
+
 # Composer template for Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
